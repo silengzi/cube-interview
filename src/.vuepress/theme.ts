@@ -6,13 +6,13 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "silengzi", // 作者
+    url: "http://123.57.246.82/#/", // 链接（这里是放了一个个人博客地址、放啥都行）
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://theme-hope-assets.vuejs.press/logo.svg", // 网站左上角 logo
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -23,6 +23,18 @@ export default hopeTheme({
 
   // 侧边栏
   sidebar,
+  // sidebar: {
+  //   "/frontend/": [
+  //     "", // 首页
+  //     {
+  //       text: "基础",
+  //       icon: "laptop-code",
+  //       // prefix: "frontend/",
+  //       link: "",
+  //       children: "structure",
+  //     },
+  //   ],
+  // },
 
   // 页脚
   footer: "默认页脚",
@@ -31,7 +43,8 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/frontend/encrypt.html": ["1234"], // 加密密码
+      "/frontend/page.html": ["1234"], // 加密密码
     },
   },
 

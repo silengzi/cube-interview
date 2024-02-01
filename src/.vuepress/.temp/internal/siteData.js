@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/cube-interview/\",\"lang\":\"zh-CN\",\"title\":\"文档演示\",\"description\":\"vuepress-theme-hope 的文档演示\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/cube-interview/\",\"lang\":\"zh-CN\",\"title\":\"面试宝典\",\"description\":\"面试题积累，仅供学习\",\"head\":[],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

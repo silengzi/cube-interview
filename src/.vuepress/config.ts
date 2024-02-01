@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/cube-interview/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "面试宝典",
+  description: "面试题积累，仅供学习",
 
   theme,
 

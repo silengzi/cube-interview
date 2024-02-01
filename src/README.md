@@ -1,21 +1,25 @@
 ---
 home: true
 icon: home
-title: 项目主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+title: 首页
+heroImage: https://theme-hope-assets.vuejs.press/logo.svg # 首页的大 logo
+bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg # 背景图
+bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg # 暗黑模式下的背景图
 bgImageStyle:
-  background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
-actions:
-  - text: 使用指南
+  background-attachment: fixed # 背景图使用固定定位
+heroText: 面试宝典 # 项目名称
+tagline: 面试题积累，仅供学习 # 你可以在这里放置或是整个项目的描述。
+heroFullScreen: false # 信息全屏显示
+actions: # 首页的导航按钮
+  - text: 前端
     icon: lightbulb
-    link: ./demo/
+    link: ./frontend/
     type: primary
 
-  - text: 文档
+  - text: GIS
+    link: ./guide/
+
+  - text: 计算机
     link: ./guide/
 
 highlights:
@@ -273,8 +277,8 @@ copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
 ---
 
-这是项目主页的案例。你可以在这里放置你的主体内容。
+<!-- 这是项目主页的案例。你可以在这里放置你的主体内容。
 
 想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
 
-配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。
+配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。 -->

@@ -3,18 +3,20 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/index.html.vue")),
-  // path: /demo/disable.html
-  "v-4e65ec78": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e65ec78" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/demo/disable.html.vue")),
-  // path: /demo/encrypt.html
-  "v-c151bf32": defineAsyncComponent(() => import(/* webpackChunkName: "v-c151bf32" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/demo/encrypt.html.vue")),
-  // path: /demo/layout.html
-  "v-33d62ebc": defineAsyncComponent(() => import(/* webpackChunkName: "v-33d62ebc" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/demo/layout.html.vue")),
-  // path: /demo/markdown.html
-  "v-438ffe52": defineAsyncComponent(() => import(/* webpackChunkName: "v-438ffe52" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/demo/markdown.html.vue")),
-  // path: /demo/page.html
-  "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/demo/page.html.vue")),
-  // path: /demo/
-  "v-1473bf53": defineAsyncComponent(() => import(/* webpackChunkName: "v-1473bf53" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/demo/index.html.vue")),
+  // path: /frontend/01.html
+  "v-23316518": defineAsyncComponent(() => import(/* webpackChunkName: "v-23316518" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/frontend/01.html.vue")),
+  // path: /frontend/disable.html
+  "v-f5afdb16": defineAsyncComponent(() => import(/* webpackChunkName: "v-f5afdb16" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/frontend/disable.html.vue")),
+  // path: /frontend/encrypt.html
+  "v-4bb22918": defineAsyncComponent(() => import(/* webpackChunkName: "v-4bb22918" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/frontend/encrypt.html.vue")),
+  // path: /frontend/layout.html
+  "v-42e2682a": defineAsyncComponent(() => import(/* webpackChunkName: "v-42e2682a" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/frontend/layout.html.vue")),
+  // path: /frontend/markdown.html
+  "v-8583e374": defineAsyncComponent(() => import(/* webpackChunkName: "v-8583e374" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/frontend/markdown.html.vue")),
+  // path: /frontend/page.html
+  "v-3b660aa6": defineAsyncComponent(() => import(/* webpackChunkName: "v-3b660aa6" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/frontend/page.html.vue")),
+  // path: /frontend/
+  "v-06198984": defineAsyncComponent(() => import(/* webpackChunkName: "v-06198984" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/frontend/index.html.vue")),
   // path: /guide/
   "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"D:/工作空间/person-program/cube-interview/src/.vuepress/.temp/pages/guide/index.html.vue")),
   // path: /guide/bar/baz.html

@@ -1,8 +1,9 @@
 import { navbar } from "vuepress-theme-hope";
 
+// navbar组件，用于配置顶部导航栏
 export default navbar([
   "/",
-  "/demo/",
+  "/frontend/",
   {
     text: "指南",
     icon: "lightbulb",

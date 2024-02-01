@@ -2,12 +2,12 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    "",
+    "", // 首页
     {
-      text: "案例",
+      text: "基础",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "frontend/",
+      link: "frontend/",
       children: "structure",
     },
     {
