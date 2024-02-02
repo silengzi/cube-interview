@@ -17,10 +17,10 @@ actions: # 首页的导航按钮
     type: primary
 
   - text: GIS
-    link: ./guide/
+    link: ./gis/
 
   - text: 计算机
-    link: ./guide/
+    link: ./computer/
 
 highlights:
   - header: 易于安装

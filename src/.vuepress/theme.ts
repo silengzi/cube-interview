@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg", // 网站左上角 logo
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "silengzi/cube-interview", // 该项目的 github 地址
 
   docsDir: "src",
 

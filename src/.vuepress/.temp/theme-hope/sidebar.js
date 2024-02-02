@@ -1,1 +1,1 @@
-export const sidebarData = {"/frontend/":["layout","markdown","page","disable","encrypt","01"],"/guide/":["",{"text":"Bar 功能","prefix":"bar/","collapsible":true,"icon":"lightbulb","children":["","baz"]},{"text":"Foo 功能","prefix":"foo/","collapsible":true,"icon":"lightbulb","children":["","ray"]}]};
+export const sidebarData = {"/frontend/基础/":["01"],"/frontend/进阶/":["01"],"/frontend/高级/":["01"],"/gis/基础知识/":["01"],"/computer/数据结构/":["01"],"/computer/算法/":["01"],"/computer/操作系统/":["01"],"/computer/计算机网络/":["01"]};
