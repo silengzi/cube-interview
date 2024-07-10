@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-x3n3nnut.js";import{r as t,o as n,c as a,a as c,b as r}from"./app-olfm5N8J.js";const s={};function _(m,l){const e=t("AutoCatalog");return n(),a("div",null,[c(" 自动加载本目录下的md文件目录 "),r(e)])}const i=o(s,[["render",_],["__file","index.html.vue"]]);export{i as default};

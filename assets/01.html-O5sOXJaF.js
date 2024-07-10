@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c,a as _,d as e}from"./app-olfm5N8J.js";const n={},r=e("p",null,"GIS概述。",-1),s=e("p",null,"GIS全称为地理信息系统。",-1);function a(l,m){return t(),c("div",null,[r,_(" more "),s])}const i=o(n,[["render",a],["__file","01.html.vue"]]);export{i as default};
