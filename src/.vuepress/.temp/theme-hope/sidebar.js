@@ -1,1 +1,1 @@
-export const sidebarData = {"/frontend/基础/":["01"],"/frontend/进阶/":["01"],"/frontend/高级/":["01"],"/gis/基础知识/":["01"],"/computer/数据结构/":["01"],"/computer/算法/":["01"],"/computer/操作系统/":["01"],"/computer/计算机网络/":["01"]};
+export const sidebarData = {};

@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 // navbar组件，用于配置顶部导航栏
 export default navbar([
   "/",
-  "/frontend/",
+  "/前端/",
   "/gis/",
   "/computer/",
   {

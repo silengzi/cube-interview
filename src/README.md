@@ -13,7 +13,7 @@ heroFullScreen: false # 信息全屏显示
 actions: # 首页的导航按钮
   - text: 前端
     icon: lightbulb
-    link: ./frontend/
+    link: ./前端/
     type: primary
 
   - text: GIS

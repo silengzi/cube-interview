@@ -1,14 +1,14 @@
 import { defineClientConfig } from "vuepress/client";
-import { VPLink } from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-shared/lib/client/index.js";
+import { VPLink } from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-shared/lib/client/index.js";
 
-import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-theme-hope/lib/bundle/export.js";
 
-import { defineAutoCatalogGetter } from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
+import { defineAutoCatalogGetter } from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
 import { h } from "vue"
-import { GlobalEncrypt, LocalEncrypt } from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
-import "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import { GlobalEncrypt, LocalEncrypt } from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
+import "D:/工作空间/person-program/cube-interview/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
 
-import "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "D:/工作空间/person-program/cube-interview/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
 defineAutoCatalogGetter((meta) => {
   const title = meta.t;

@@ -1,14 +1,14 @@
 import { defineClientConfig } from "vuepress/client";
-import { hasGlobalComponent } from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-shared/lib/client/index.js";
+import { hasGlobalComponent } from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-shared/lib/client/index.js";
 import { h } from "vue";
 
-import { useScriptTag } from "D:/Code/workspace/project/前端/cube-interview/node_modules/@vueuse/core/index.mjs";
-import FontIcon from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import Badge from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import VPCard from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
-import BackToTop from "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import { useScriptTag } from "D:/工作空间/person-program/cube-interview/node_modules/@vueuse/core/index.mjs";
+import FontIcon from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import Badge from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import VPCard from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
+import BackToTop from "D:/工作空间/person-program/cube-interview/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
-import "D:/Code/workspace/project/前端/cube-interview/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
+import "D:/工作空间/person-program/cube-interview/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
